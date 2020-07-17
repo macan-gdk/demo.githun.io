@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "first_name": "Sebastian",
+            "last_name": "Nommand"
+        },
+        {
+            "id": 2,
+            "first_name": "Julia",
+            "last_name": "Palmer"
+        },
+        {
+            "id": 3,
+            "first_name": "Anne",
+            "last_name": "Cathays"
+        }
+    ]
+}
