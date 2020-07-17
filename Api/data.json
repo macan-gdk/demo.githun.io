@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Sebastian",
+            "last_name": "Nommand",
+            "address": "123 Subway, NDC"
+        },
+        {
+            "id": 2,
+            "name": "Julia",
+            "last_name": "Palmer",
+            "address": "Path 12, Manchess Street"
+        },
+        {
+            "id": 3,
+            "name": "Anne",
+            "last_name": "Cathays",
+            "address": "4th floor, Nanman Landing"
+        }
+    ]
+}
